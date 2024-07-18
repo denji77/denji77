@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="" alt="Add later" />
+    <img src="https://github.com/denji77/denji77/blob/main/giphy.gif" alt="" />
 </div>
 
 <h1 align="center">Hellowww there, I'm Harsh</h1>
