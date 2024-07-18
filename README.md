@@ -52,11 +52,11 @@
 
 ### 📊 Stats and Activity
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drtoxic69&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denji77&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=drtoxic69&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=denji77&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drtoxic69&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denji77&theme=dark" alt="GitHub Streak" />
 </p>
