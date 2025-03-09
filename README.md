@@ -52,7 +52,7 @@
 
 ### 📊 Stats and Activity
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denji77&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denji77&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=denji77&theme=dark" alt="GitHub Streak" />
