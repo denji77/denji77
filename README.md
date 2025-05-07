@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=denji77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript, C++, Python**
+- 🌱 I’m currently learning **JavaScript, C++, Python, Algorithms, AIML**
 - 📫 How to reach me?? **harshranjan91350@gmail.com**
 
 ---
