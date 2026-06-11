@@ -5,9 +5,7 @@
 <h1 align="center">Hellowww there, I'm Harsh</h1>
 <h3 align="center">A BTech student from India. Passionate about learning about different tech.</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=denji77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 - 🌱 I’m currently learning **JavaScript, C++, Python, Algorithms, AIML**
 - 📫 How to reach me?? **harshranjan91350@gmail.com**
