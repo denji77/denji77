@@ -1,8 +1,4 @@
-<div align="center">
-    <img src="https://github.com/denji77/denji77/blob/main/giphy.gif" alt="" />
-</div>
-
-<h1 align="center">Hellowww there, I'm Harsh</h1>
+<h1 align="center">Helloww there, I'm Harsh</h1>
 <h3 align="center">A BTech student from India. Passionate about learning about different tech.</h3>
 
 
